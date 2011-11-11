@@ -2,7 +2,7 @@
 Notice,it's just for linux System only.
 
 1.Python  2.6<= verison <= 2.7
-because this server need multiprocess supported and pyfpdlib supported
+because this server need multiprocess supported and pyftpdlib supported
 
 More in detail
 http://docs.python.org/library/multiprocessing.html     >2.6
