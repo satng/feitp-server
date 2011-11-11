@@ -20,6 +20,8 @@ Best high-Preformance user CPU Number * 2 for process
 
 python FEITP-SERVER.py
 
+###upload file in /REV dir###
+
 4.DIY your logic
 If you overwrite YourHandler Class, there are a lot of your logic you can do 
 
